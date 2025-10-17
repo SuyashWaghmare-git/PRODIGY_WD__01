@@ -1,4 +1,10 @@
-# Landing Page – Portfolio
+<img width="1824" height="914" alt="Screenshot 2025-10-17 193031" src="https://github.com/user-attachments/assets/668a7838-ddb5-403c-8dc8-793b4650f3f2" />
+<img width="1827" height="914" alt="Screenshot 2025-10-17 193057" src="https://github.com/user-attachments/assets/98b3ea29-d0ed-4b1d-b159-4bc016050399" />
+<img width="1832" height="911" alt="Screenshot 2025-10-17 193112" src="https://github.com/user-attachments/assets/2343f326-33d1-4c9c-a36f-f72638436ca1" />
+<img width="1829" height="888" alt="Screenshot 2025-10-17 193135" src="https://github.com/user-attachments/assets/b16bbcf9-ccf6-42b5-8464-91bacc6173f6" />
+<img width="1831" height="905" alt="Screenshot 2025-10-17 193158" src="https://github.com/user-attachments/assets/beda9d17-a89d-43bc-8e5a-57b559fbb619" />
+
+# Landing Page – Portfolio (FocusFuel)
 
 A professional, responsive landing page built with **React**, **TypeScript**, **Tailwind CSS**, and **Vite**.  
 This project is designed to deliver a fast, modern, and visually appealing portfolio experience for individuals or companies.
